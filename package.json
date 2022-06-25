@@ -1,0 +1,30 @@
+{
+	"name": "vercel-tests",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"dev": "next",
+		"build": "next build",
+		"start": "next start"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Earl-Brown/vercel-tests.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Earl-Brown/vercel-tests/issues"
+	},
+	"homepage": "https://github.com/Earl-Brown/vercel-tests#readme",
+	"dependencies": {
+		"gray-matter": "^4.0.3",
+		"next": "^12.1.6",
+		"raw-loader": "^4.0.2",
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0",
+		"react-markdown": "^8.0.3"
+	}
+}
